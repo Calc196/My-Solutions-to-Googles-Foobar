@@ -29,3 +29,5 @@ Output:
 ```
 9
 ```
+## Solution
+[bringing-a-gun-to-a-guard-fight.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/bringing-a-gun-to-a-guard-fight.py)

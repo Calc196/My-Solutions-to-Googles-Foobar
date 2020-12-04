@@ -24,3 +24,5 @@ Output:
 ```
 [1, 4]
 ```
+## Solution
+[minion-labour-shifts.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/minion-labour-shifts.py)

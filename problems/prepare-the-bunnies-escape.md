@@ -24,3 +24,5 @@ Output:
 ```
 11
 ```
+## Solution
+[prepare-the-bunnies-escape.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/prepare-the-bunnies-escape.py)

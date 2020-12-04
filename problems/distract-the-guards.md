@@ -34,3 +34,5 @@ Output:
 ```
 0
 ```
+## Solution
+[distract-the-guards.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/distract-the-guards.py)

@@ -7,16 +7,16 @@ Using python 2.7, these solutions pass all test cases and are written with both 
 
 The challenges I recieved and the solutions I wrote are as follows:
 * Level 1
-    * Minion Labour Shifts (problem, solution)
+    * Minion Labour Shifts ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/minion-labour-shifts.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/minion-labour-shifts.py))
 * Level 2
-    * Don't Get Volunteered! (problem, solution)
-    * Elevator Maintenance (problem, solution)
+    * Don't Get Volunteered! ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/dont-get-volunteered.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/dont-get-volunteered.py))
+    * Elevator Maintenance ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/elevator-maintenance.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/elevator-maintenance.py))
 * Level 3
-    * Fuel Injection Perfection (problem, solution)
-    * Prepare the Bunnie's Escape (problem, solution)
-    * Bomb, Baby! (problem, solution)
+    * Fuel Injection Perfection ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/fuel-injection-perfection.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/fuel-injection-perfection.py))
+    * Prepare the Bunnie's Escape ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/prepare-the-bunnies-escape.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/prepare-the-bunnies-escape.py))
+    * Bomb, Baby! ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/bomb-baby.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/bomb-baby.py))
 * Level 4
-    * Bringing a Gun to a Guard Fight (problem, solution)
-    * Distract the Guards (problem, solution)
+    * Bringing a Gun to a Guard Fight ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/bringing-a-gun-to-a-guard-fight.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/bringing-a-gun-to-a-guard-fight.py))
+    * Distract the Guards ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/distract-the-guards.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/distract-the-guards.py))
 * Level 5
-    * Dodge the Lasers! (problem, solution)
+    * Dodge the Lasers! ([problem](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/problems/dodge-the-lasers.md), [solution](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/dodge-the-lasers.py))

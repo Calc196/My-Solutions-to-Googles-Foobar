@@ -37,3 +37,5 @@ Output:
 ```
 3
 ```
+## Solution
+[dont-get-volunteered.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/dont-get-volunteered.py)

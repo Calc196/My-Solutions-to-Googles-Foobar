@@ -26,3 +26,5 @@ Output:
 ```
 1.0,1.0.2,1.0.12,1.1.2,1.3.3
 ```
+## Solution
+[elevator-maintenance.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/elevator-maintenance.py)

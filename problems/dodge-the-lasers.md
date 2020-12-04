@@ -28,3 +28,5 @@ Output:
 ```
 4208
 ```
+## Solution
+[dodge-the-lasers.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/dodge-the-lasers.py)

@@ -30,3 +30,5 @@ Output:
 ```
 1
 ```
+## Solution
+[bomb-baby.py](https://github.com/Calc196/My-Solutions-to-Googles-Foobar/blob/master/solutions/bomb-baby.py)
