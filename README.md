@@ -1,5 +1,5 @@
-# My solutions to Google's Foobar
-Foobar is an invite only recruiting initiative by Google that consists of a series of programming challenges. The challenges are split into 5 levels of increasing difficulty. This repository comprises my solutions to the challenges I recieved. 
+# My Solutions to Google's Foobar
+Foobar is an invite only recruiting initiative by Google that consists of a series of programming challenges. The challenges are split into five levels of increasing difficulty. This repository comprises my solutions to the challenges I recieved. Foobar can be found here: [https://foobar.withgoogle.com](https://foobar.withgoogle.com)
 
 ![](/images/bunny.gif "bunny.gif")
 
